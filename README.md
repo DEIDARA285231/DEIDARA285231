@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://tenor.com/search/darth-vader-gifs">
-    <img href="https://tenor.com/search/darth-vader-gifs" alt="Banner">
+  <a href="https://www.pinterest.com/pin/star-wars-rebels-darth-vader-gif-gif-starwarsrebelsdarthvadergif-starwars-darthvader-discover-share-gif--862369028643387026/">
+    <img href="https://www.pinterest.com/pin/star-wars-rebels-darth-vader-gif-gif-starwarsrebelsdarthvadergif-starwars-darthvader-discover-share-gif--862369028643387026/" alt="Banner">
   </a>
 </p>
 
