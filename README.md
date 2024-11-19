@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://tenor.com/search/darth-vader-gifs">
+    <img href="https://tenor.com/search/darth-vader-gifs" alt="Banner">
+  </a>
+</p>
+
 ## Hi there 👋 Name's Edoardo, pleased to meet you
 # About ME 💬 :
  I am a **Junior Software developer** with a background in **Bioinformatics**. I completed my undergraduate studies in **Computer Science** at the **Uni
