@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 Name's Edoardo, pleased to meet you
+# About ME 💬 :
+ I am a **Junior Software developer** with a background in **Bioinformatics**. I completed my undergraduate studies in **Computer Science** at the **Uni
+versity of Cagliari**, followed by a **Master’s degree** in **Computer Science** with a specialization in **Bioinformatics** at the **University of Trento**. I am a
+ curious and motivated learner, passionate about exploring and mastering new tools, technologies, and methods for tackling complex computa
+tional challenges. Feel free to reach out if you need further information!
 
-<!--
-**DEIDARA285231/DEIDARA285231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 **Email**: [deidara28523@gmail.com](mailto:deidara28523@gmail.com)  
+📞 **Phone Number**: 3388762904
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/edoardo-schioccola-235144178/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/edoardoschioccola/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
