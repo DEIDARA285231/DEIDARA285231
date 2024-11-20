@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://www.pinterest.com/pin/star-wars-rebels-darth-vader-gif-gif-starwarsrebelsdarthvadergif-starwars-darthvader-discover-share-gif--862369028643387026/">
-    <img href="https://www.pinterest.com/pin/star-wars-rebels-darth-vader-gif-gif-starwarsrebelsdarthvadergif-starwars-darthvader-discover-share-gif--862369028643387026/" alt="Banner">
-  </a>
-</p>
+![](https://github.com/DEIDARA285231/DEIDARA285231/blob/main/Star%20Wars%20Rebels%20Darth%20Vader%20Gif%20GIF%20-%20Star%20Wars%20Rebels%20Darth%20Vader%20Gif%20Star%20Wars%20Darth%20Vader%20-%20Discover%20%26%20Share%20GIFs.gif)
 
 ## Hi there 👋 Name's Edoardo, pleased to meet you
 # About ME 💬 :
