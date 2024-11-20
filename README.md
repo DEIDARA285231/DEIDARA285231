@@ -35,7 +35,7 @@ tional challenges. Feel free to reach out if you need further information!
 # Work experience 💼:
 
 ## Backend Developer | Bytecare S.r.l.
-_Cagliari, Italia | 2023 – 2024_
+_Cagliari, Italy | 2023 – 2024_
 - Led the implementation of RESTful APIs aimed at the creation of an online app for generating content via AI called Dialogsphere.
 - Actively managedall the processes involved in the development and cloud deployment of the aforementioned API.
 - Designed an overall service architecture of the whole application starting from the databases up to all the microservices involved.
@@ -44,7 +44,38 @@ _Cagliari, Italia | 2023 – 2024_
 - Maintained the application up to date by constantly adding support to the most recent LLMs and libraries.
 - Thankstothisexperience I was able to consolidate my collaborative approach to development.
 
+## University Internship | University of Trento
+_Trento, Italy | 2022_
+- Fascinated by Cancer research and by howbioinformatics proves useful in that field I developed a R workflow for data analysis.
+- The goal of the project was to investigate whether it s possible to contract certain types of cancer due to mutations of a set of genes defined as
+ ”HumanSpecific” that were currently being investigated by the University’s Lab.
+- Had the opportunity to interact and query multiple Bioinformatics databases that are still currently used for research.
+- Entirely built using R and R studio.
+- Supervised by Professor Alessandro Romanel and his equipe.
 
+## University Internship | University of Cagliari
+_Cagliari, Italy | 2020_
+- Trained, tested and validated various neural networks to distinguish emotions through facial expressions in an E‑Learning environment.
+- Thegoaloftheproject wastodefine the degree of interest of a student while enjoying a given digital content.
+- Built a small python demothatcoulddefine thedegreeof emotionapersonwasexperiencing.
+- Entirely build using Keras, Tensorflow and Python.
+
+# Education 🎓
+
+## UniTN(University of Trento)
+### Master's degree in Computer Science - Bioinformatics
+_Trento, Italy | 2020-2023_
+- Graduated in Computer Science‑Bioinformatics at the University of Trento in a course conducted entirely in English.
+- Graduated with a grade of 107 presenting a thesis concerning Bioinformatic analysis of biological data of Human Specific Genes so as to predict
+ the occurrence of serious diseases such as various types of cancers.
+
+## UniCA(University of Cagliari)
+### Bachelor degree in Computer Science
+_Cagliari, Italy | 2017-2020_
+- Graduated with a grade of 110 with honors.
+- Presented a thesis on the recognition of emotions through facial expressions in the E‑Learning environment.
+
+# Projects 🎯
 
 
 
