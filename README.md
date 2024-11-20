@@ -31,3 +31,32 @@ tional challenges. Feel free to reach out if you need further information!
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+
+# Work experience 💼:
+
+## Backend Developer | Bytecare S.r.l.
+_Cagliari, Italia | 2023 – 2024_
+- Led the implementation of RESTful APIs aimed at the creation of an online app for generating content via AI called Dialogsphere.
+- Actively managedall the processes involved in the development and cloud deployment of the aforementioned API.
+- Designed an overall service architecture of the whole application starting from the databases up to all the microservices involved.
+- Built CI/CD pipelines for Gitlab to automatically push the dockerized app into Google Cloud Platform.
+- Implementedseveral Google CloudFunctions in order to have a micro‑service oriented architecture.
+- Maintained the application up to date by constantly adding support to the most recent LLMs and libraries.
+- Thankstothisexperience I was able to consolidate my collaborative approach to development.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
