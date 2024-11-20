@@ -76,9 +76,40 @@ _Cagliari, Italy | 2017-2020_
 - Presented a thesis on the recognition of emotions through facial expressions in the E‑Learning environment.
 
 # Projects 🎯
+## EasyCook
+- App that allows users to consult a cookbook created and managed by users through gestures in so as to facilitate the use of the said app while
+ cooking.
+- The project was rated as one of the best of our year and it is possible to view it n the course instructor’s page.
+- Project developed using Android Studio, HTML, CSS and Javascript.
+- Allowed me to grasp many fundamental concepts regarding UI and UX.
 
+## Distributed Systems
+- Together with a colleague, I designed a method that allows concurrent transactions to be executed in a secure manner in distributed systems
+ of the following type: Client‑Coordinators‑Servers.
+- We implemented useful Recovery strategies in case of Coordinator and/or Server failure.
+- The project was entirely developed using Java.
+- Allowed me to actively understand and tackle concept like Concurrency, Scalability, Fault Tolerance, Consistency and Synchronization.
 
+## Service Design andEngineering
+- In a group of 3 people, we built a Web app that could make calls to the Twitch API and other APIs in order to get all the information necessary
+ to the user to consciously buy a video gametitle.
+- The project was entirely developed using NodeJS and Typescript.
 
+## Space Invaders
+- Videogame made with a colleague in which we recreated Space invaders using C.
+- The goal of the project was to get familiar with the concepts of pipes and threads.
+- The project was entirely developed using C using both threads and pipes.
+- The project was rated as one of the best of our year and was shown to other students as an example.
+
+etc.
+
+# Languages 
+## English
+- C1 Cambridge Advanced Exam.
+- C2 Level Certificate obtained after a Month in Dublin with EF.
+
+## Italian
+- Native speaker.
 
 
 
