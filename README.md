@@ -37,12 +37,12 @@ tional challenges. Feel free to reach out if you need further information!
 ## Backend Developer | Bytecare S.r.l.
 _Cagliari, Italy | 2023 – 2024_
 - Led the implementation of RESTful APIs aimed at the creation of an online app for generating content via AI called Dialogsphere.
-- Actively managedall the processes involved in the development and cloud deployment of the aforementioned API.
+- Actively managed all the processes involved in the development and cloud deployment of the aforementioned API.
 - Designed an overall service architecture of the whole application starting from the databases up to all the microservices involved.
 - Built CI/CD pipelines for Gitlab to automatically push the dockerized app into Google Cloud Platform.
-- Implementedseveral Google CloudFunctions in order to have a micro‑service oriented architecture.
+- Implemented several Google Cloud Functions in order to have a micro‑service oriented architecture.
 - Maintained the application up to date by constantly adding support to the most recent LLMs and libraries.
-- Thankstothisexperience I was able to consolidate my collaborative approach to development.
+- Thanks to this experience I was able to consolidate my collaborative approach to development.
 
 ## University Internship | University of Trento
 _Trento, Italy | 2022_
@@ -56,7 +56,7 @@ _Trento, Italy | 2022_
 ## University Internship | University of Cagliari
 _Cagliari, Italy | 2020_
 - Trained, tested and validated various neural networks to distinguish emotions through facial expressions in an E‑Learning environment.
-- Thegoaloftheproject wastodefine the degree of interest of a student while enjoying a given digital content.
+- The goal of the project was to define the degree of interest of a student while enjoying a given digital content.
 - Built a small python demothatcoulddefine thedegreeof emotionapersonwasexperiencing.
 - Entirely build using Keras, Tensorflow and Python.
 
